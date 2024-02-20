@@ -1,0 +1,28 @@
+.main{
+    width: 400px;
+    text-align: justify;
+    line-height: 30px;
+    text-indent: 30px;
+}
+.size{
+    font-size: 20px;
+    color: blue;
+    text-align: center;
+}
+.sizet{
+    font-size: 15px;
+    color: blue;
+    text-align: center;
+}
+.red{
+    color: red;
+    font-weight: bolder;
+}
+#cut{
+    font-weight: bolder;
+    color: red;
+}
+.bluep{
+    color: rgba(0, 0, 255, 0.934);
+    font-style: italic;
+}
